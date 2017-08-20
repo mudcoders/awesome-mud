@@ -6,12 +6,12 @@ d8' `8b 88   I8I   88 88'     88'  YP .8P  Y8. 88'YbdP`88 88'
 88   88 `8b d8'8b d8' 88.     db   8D `8b  d8' 88  88  88 88.     
 YP   YP  `8b8' `8d8'  Y88888P `8888Y'  `Y88P'  YP  YP  YP Y88888P 
                                                                   
-                   .88b  d88. db    db d8888b. 
-                   88'YbdP`88 88    88 88  `8D 
-                   88  88  88 88    88 88   88 
-                   88  88  88 88    88 88   88 
-                   88  88  88 88b  d88 88  .8D 
-                   YP  YP  YP ~Y8888P' Y8888D' 
+.88b  d88. db    db d8888b. 
+88'YbdP`88 88    88 88  `8D 
+88  88  88 88    88 88   88 
+88  88  88 88    88 88   88 
+88  88  88 88b  d88 88  .8D 
+YP  YP  YP ~Y8888P' Y8888D' 
 ```
 
 # Awesome MUD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/look-list-green.svg)
