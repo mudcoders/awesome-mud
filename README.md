@@ -34,11 +34,14 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 _Log in and play._
 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer) - Modern MUD client for the iPhone and iPad.
+- [TinTin++](http://tintin.sourceforge.net/) - Cross-platform, command line MUD client.
 
 ## Codebases
 
 _Active and retired MUD codebases._
 
+- [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - A textual Multi-User Dungeon server in Haskell.
+- [Evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system.
 - [Ranvier](https://github.com/shawncplus/ranviermud) - Node.js-based MUD engine.
 
 ## Hosting
