@@ -26,7 +26,6 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 - [Clients](#clients)
 - [Codebases](#codebases)
-- [Snippets](#snippets)
 - [Hosting](#hosting)
 - [Communities](#communities)
 
@@ -41,10 +40,6 @@ _Log in and play._
 _Active and retired MUD codebases._
 
 - [Ranvier](https://github.com/shawncplus/ranviermud) - Node.js-based MUD engine.
-
-## Snippets
-
-_Open source patches, bug fixes, and code snippets for MUD codebases.
 
 ## Hosting
 
