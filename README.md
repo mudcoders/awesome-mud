@@ -40,7 +40,7 @@ _Log in and play._
 
 _Active and retired MUD codebases._
 
-- [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - A textual Multi-User Dungeon server in Haskell.
+- [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - Textual Multi-User Dungeon server in Haskell.
 - [Evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system.
 - [Ranvier](https://github.com/shawncplus/ranviermud) - Node.js-based MUD engine.
 
