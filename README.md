@@ -14,7 +14,7 @@ YP   YP  `8b8' `8d8'  Y88888P `8888Y'  `Y88P'  YP  YP  YP Y88888P
                    YP  YP  YP ~Y8888P' Y8888D' 
 ```
 
-# Awesome MUD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome MUD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/look-list-green.svg)
 
 > A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 
