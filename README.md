@@ -33,6 +33,8 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 _Log in and play._
 
+- [Blightmud](https://github.com/LiquidityC/Blightmud) -  A mud client for the terminal
+- [BlowTorch](https://bt.happygoatstudios.com/) - A MUD client for Android.
 - [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, MUD client with scripting in Lua.
 - [MUDRammer](https://github.com/splinesoft/MUDRammer) - Modern MUD client for the iPhone and iPad.
 - [TinTin++](http://tintin.sourceforge.net/) - Cross-platform, command line MUD client.
@@ -42,9 +44,34 @@ _Log in and play._
 _Active and retired MUD codebases._
 
 - [ArchaicQuest](https://github.com/LiamKenneth/ArchaicQuest) - C# web based MUD engine.
+- [BRus MUD Engine](https://github.com/bylins/mud) - Russian MUD engine in C++.
+- [CoffeMud](https://github.com/bozimmerman/CoffeeMud) - Java-based MUD engine.
 - [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - Textual Multi-User Dungeon server in Haskell.
+- [DikuMUD3](https://github.com/Seifert69/DikuMUD3) - Latest DikuMID release with HTML and websockets support.
+- [DUM](https://github.com/wowpin/dumserver) - A modern Python MU* engine.
+- [DragonMUD](https://github.com/bbuck/dragon-mud) - MUD engine in GO.
 - [Evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system.
+- [ExVenture](https://github.com/oestrich/ex_venture) - Elixir based MUD engine.
+- [FluffOS](https://github.com/fluffos/fluffos) - actively maintained LPMUD driver, based on the last release of MudOS.
+- [HellCore](https://github.com/necanthrope/HellCore) - HellCore fork of LambdaMOO.
+- [Kalevala](https://github.com/oestrich/kalevala) - World building toolkit for text based games, written in Elixir.
+- [ldmud](https://github.com/ldmud/ldmud) - LDMud game driver for LPMuds.
 - [Ranvier](https://github.com/shawncplus/ranviermud) - Node.js-based MUD engine.
+- [RockMUD](https://github.com/MoreOutput/RockMUD) - Node.js-based WebSockets-capable MUD server.
+- [room.js](https://github.com/doughsay/room.js) - Node.js-based MUD/MOO engine.
+- [Tale](https://github.com/irmen/Tale) - Mud, mudlib & interactive fiction framework.
+
+## Protocols
+
+_Specifications of various MUD-related protocols_
+
+- [GMCP](https://tintin.mudhalla.net/protocols/gmcp/) - Generic Mud Communication Protocol.
+- [MCCP](https://tintin.mudhalla.net/protocols/mccp/) - Mud Client Compression Protocol.
+- [MSP](https://www.zuggsoft.com/zmud/msp.htm) - Mud Sound Protocol.
+- [MSSP](https://tintin.mudhalla.net/protocols/mssp/) - Mud Server Status Protocol.
+- [MTTS](https://tintin.mudhalla.net/protocols/mtts/) - Mud Terminal Type Standard.	
+- [Ironrealms GMCP](https://nexus.ironrealms.com/GMCP) - Specification of GMCP used by Iron Realms Nexus Client.
+- [Protocols supported by Mudlet](https://wiki.mudlet.org/w/Manual:Supported_Protocols#MSP) - Docs about protocols supported by Mudlet.
 
 ## Hosting
 
@@ -58,3 +85,4 @@ _Connect with other MUD enthusiasts._
 
 - [The MUD Coders Guild](https://mudcoders.com) - Slack community for text-based game developers.
 - [r/MUD](https://www.reddit.com/r/MUD) - Reddit's official MUD community.
+- [Titans of Text](https://www.titansoftext.com/) - MUD related podcast
