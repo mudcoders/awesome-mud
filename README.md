@@ -44,6 +44,7 @@ _Log in and play._
 _Active and retired MUD codebases._
 
 - [ArchaicQuest](https://github.com/LiamKenneth/ArchaicQuest) - C# web based MUD engine.
+- [AwakeMUD](https://github.com/luciensadi/AwakeMUD) - Community fork of Awakened Worlds written in C++.
 - [BRus MUD Engine](https://github.com/bylins/mud) - Russian MUD engine in C++.
 - [CoffeMud](https://github.com/bozimmerman/CoffeeMud) - Java-based MUD engine.
 - [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - Textual Multi-User Dungeon server in Haskell.
