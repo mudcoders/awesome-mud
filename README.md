@@ -64,6 +64,7 @@ _Active and retired MUD codebases._
 - [FluffOS](https://github.com/fluffos/fluffos) - actively maintained LPMUD driver, based on the last release of MudOS.
 - [HellCore](https://github.com/necanthrope/HellCore) - HellCore fork of LambdaMOO.
 - [Kalevala](https://github.com/oestrich/kalevala) - World building toolkit for text based games, written in Elixir.
+- [Legends of Future Past](https://github.com/jonradoff/lofp) - 1992 commercial MUD resurrected from original script files using AI. Go backend, React frontend, WebSocket multiplayer. MIT license. [Play free](https://lofp.metavert.io).
 - [ldmud](https://github.com/ldmud/ldmud) - LDMud game driver for LPMuds.
 - [Ranvier](https://github.com/shawncplus/ranviermud) - Node.js-based MUD engine.
 - [RockMUD](https://github.com/MoreOutput/RockMUD) - Node.js-based WebSockets-capable MUD server.
